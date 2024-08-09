@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exer5-ThreadsAsyncTask</string>
+    <string name="contador">10</string>
+</resources>
